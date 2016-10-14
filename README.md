@@ -4,7 +4,6 @@ Profiles: An IT Admin’s Best Friend
 Links from the talk, with quotes where applicable & other helpful links.
 
 # Identification
-(iOS, macOS) uniquely identifies the bundle. Each distinct app or bundle on the system must have a unique bundle ID. The system uses this string to identify your app in many ways. For example, the preferences system uses this string to identify the app for which a given preference applies; Launch Services uses the bundle identifier to locate an app capable of opening a particular file, using the first app it finds with the given identifier; in iOS, the bundle identifier is used in validating the app’s signature.
 https://developer.apple.com/library/content/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html#//apple_ref/doc/uid/20001431-102070
 
 # appconfig
