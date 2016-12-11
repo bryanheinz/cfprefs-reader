@@ -3,6 +3,10 @@ Profiles: An IT Admin’s Best Friend
 
 Links from the talk, with quotes where applicable & other helpful links.
 
+# Talk Video
+
+https://www.youtube.com/watch?v=JbukZ0SNafY
+
 # Identification
 https://developer.apple.com/library/content/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html#//apple_ref/doc/uid/20001431-102070
 
